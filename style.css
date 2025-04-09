@@ -83,7 +83,7 @@ body {
 
 .details {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: space-between;
 	flex: 1;
 	width: 100%;
@@ -181,7 +181,6 @@ body {
 .title-container {
 	display: flex;
 	flex-direction: column;
-	gap: 0.25rem;
 }
 
 .transaction-details {
